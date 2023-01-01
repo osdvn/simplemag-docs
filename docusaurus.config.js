@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'OSD.VN', // Usually your GitHub org/user name.
-  projectName: 'simplemag-doc', // Usually your repo name.
+  projectName: 'simplemag-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Hướng dẫn sử dụng',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
