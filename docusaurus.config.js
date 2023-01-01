@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -69,7 +69,6 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn sử dụng',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://osd.vn',
             label: 'OSD.VN',
