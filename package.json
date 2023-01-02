@@ -1,6 +1,6 @@
 {
   "name": "simplemag-docs",
-  "version": "0.0.1",
+  "version": "6.5.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
