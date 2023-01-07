@@ -21,7 +21,7 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
-#### 1. Thêm trình đơn tự do
+#### Thêm trình đơn tự do
 
 Để thêm trình đơn tự do, bạn điền thông tin tại trường **Thêm tự do**
 
