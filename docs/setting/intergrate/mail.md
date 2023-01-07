@@ -33,6 +33,4 @@ Là địa chỉ email sẽ xuất hiện tại trường from của email gửi
 Điền mật khẩu của khoản email dùng để đăng nhập vào máy chủ SMTP.
 
 ### 2.5. Cổng
-Điền cổng của máy chủ SMTP. Ví dụ: 25, 465, 587,... 
-
-Trong tình huống máy chủ SMTP không hỗ trợ giao thức bảo mật, bạn sẽ để trống trường này.
+Điền cổng của máy chủ SMTP. Ví dụ: 25, 465, 587,...
