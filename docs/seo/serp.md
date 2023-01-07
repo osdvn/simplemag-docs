@@ -1,6 +1,6 @@
 # Hướng dẫn điền thông tin SEO tại trang chi tiết
 
-Toàn bộ các trang của Mkmate đều có thể khai báo được thông tin SEO theo quy chuẩn nhất quán. Cách khai báo chi tiết như sau:
+Toàn bộ các trang của Simplemag đều có thể khai báo được thông tin SEO theo quy chuẩn nhất quán. Cách khai báo chi tiết như sau:
 
 ## Meta title
 
