@@ -1,4 +1,5 @@
 # Trình quản lý file (Finder)
+
 Trình quản lý file (chủ yếu là hình ảnh) trên hệ thống được mô phỏng theo giao diện của Finder (trên MacOS X) và Windows Explorer với mong muốn giúp người đọc tổ chức hình ảnh hiệu quả hơn.
 
 Hình ảnh, theo quan điểm của marketer chuyên nghiệp, chiếm 70% cảm tình của người xem. Thói quen quản lý hình ảnh khoa học sẽ đồng thời giúp bạn tiết kiệm thời gian đưa thông tin lên website và quan trọng hơn là nhận thức của bạn về giá trị của hình ảnh trong tin bài được đưa lên website.
