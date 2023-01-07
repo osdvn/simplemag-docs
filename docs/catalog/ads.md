@@ -10,6 +10,8 @@ Cho phép tạo nhiều Quảng cáo tùy theo mục đích.
 
 Nhấn chọn **Nội dung -> Quản lý quảng cáo**. Nhấn chọn nút (+) để thêm mới 1 mục.
 
+![quang-cao.jpg](img/quang-cao.jpg)
+
 Những thông tin cụ thể cần điền như sau:
 
 **Banner Quảng cáo**
@@ -62,6 +64,8 @@ Sau khi thay đổi các thông tin nội dung của banner Quảng cáo, nhấn
 ## Cấu hình mô đun Quảng cáo
 
 Nhấn chọn **Giao diện -> Mô đun -> Quảng cáo -> Cấu hình**. Nhấn chọn nút (+) để thêm mới 1 mục.
+
+![quang-cao-1.jpg](img/quang-cao-1.jpg)
 
 Những thông tin cấu hình như sau:
 
