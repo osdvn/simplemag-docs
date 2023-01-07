@@ -13,3 +13,5 @@ Tại địa chỉ google map bạn nhấn chọn Chia sẻ -> Nhúng bản đ�
 Sau khi hoàn tất, bạn cấu hình bố cục và ví trí hiển thị bản đồ trên website.
 
 ![map-4.jpg](img/map-4.jpg)
+
+Nhấn chọn nút (v) để lưu lại 1 mục.
