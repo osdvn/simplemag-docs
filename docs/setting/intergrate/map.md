@@ -1,6 +1,6 @@
 # Hướng dẫn nhúng bản đồ
 
-Tại địa chỉ google map bạn nhấn chọn Chia sẻ -> Nhúng bản đồ (chọn kích thước tùy chỉnh) -> Sao chép mã HTML
+Tại địa chỉ google map bạn nhấn chọn **Chia sẻ -> Nhúng bản đồ** (chọn kích thước tùy chỉnh) -> Sao chép mã HTML
 
 ![map-1.jpg](img/map-1.jpg)
 ![map-2.jpg](img/map-2.jpg)
