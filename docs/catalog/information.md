@@ -42,8 +42,6 @@ Nhấn chọn icon bút chì để sửa các trường _Meta title, Meta keywor
 
 Xem [tại đây](https://simplemag.osd.vn/docs/seo/serp/)
 
-Ghi chú: bên phải trường slug có nút `sao chép URL`, nhấn chọn để sao chép URL nhanh bao gồm slug và tên miền. Ví dụ: Sau khi sao chép URL có dạng như sau: `https://osd.vn/gioi-thieu-osdvn.html`. Tên miền là `https://osd.vn/`, Slug là `gioi-thieu-osdvn.html`
-
 Nhấn chọn nút (v) để lưu lại 1 mục.
 
 ## Xóa bài thông tin
@@ -57,4 +55,3 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 Để sửa một bài viết thông tin, nhấn chọn vào bài thông tin đó để sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết, nhấn chọn nút (v) để cập nhật những thay đổi.
-
