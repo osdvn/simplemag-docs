@@ -36,7 +36,7 @@ Nhập lại mật khẩu của tài khoản
 
 **Trạng thái**
 
-Lựa chọn trạng thái hoạt động của tài khoản này (Bật: cho phép hoạt động/Tắt: không cho phép hoạt động)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
 Nhấp chuột vào nút **v** để hoàn tất.
 
