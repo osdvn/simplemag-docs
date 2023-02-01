@@ -4,7 +4,7 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình [tại đây](https://simplemag.osd.vn/docs/design/module/slideshow), để hiển thị ngoài trang chủ website.
+Đối với thiết lập banner (thêm mới banner), bạn cần cấu hình [tại đây](https://mkmate.osd.vn/docs/design/banner#c%E1%BA%A5u-h%C3%ACnh-tr%C3%ACnh-di%E1%BB%85n), để hiển thị ngoài trang chủ website.
 
 ## Quản lý Banner
 
@@ -70,3 +70,50 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 Sau khi thay đổi các thông tin nội dung của banner bạn cần chọn nút **v** để hoàn tất.
 
+## Mô đun trình diễn
+
+### Thêm mới cấu hình trình diễn
+
+Nhấn chọn **Giao diện -> Mô đun -> Trình diễn -> Cấu hình -> Thêm mô đun**
+
+Tại đây bạn có thể thiết lập cấu hình mô đun. Những thông tin cụ thể cần điền như sau:
+
+_Chú ý: Các trường đều cần điền thông tin_
+
+**Bố cục/Vị trí**
+
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#b%E1%BB%91-c%E1%BB%A5c-v%C3%A0-v%E1%BB%8B-tr%C3%AD)
+
+**Thứ tự**
+
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E1%BB%B1-s%E1%BA%AFp-x%E1%BA%BFp-l%C3%A0-s%E1%BB%91-ch%E1%BB%89-%C4%91%E1%BB%8Bnh)
+
+**Trạng thái**
+
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+
+**Nhóm Banner**
+
+Chọn nhóm banner bạn đã tạo tại **Giao diện -> Banner**
+
+**Cỡ hình ảnh banner/Cỡ hình ảnh banner mobile**
+
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop/mobile
+
+**Thêm mô-đun**
+
+Chọn thêm mô đun để hiển thị giao diện bố cục khác nhau.
+
+_Chú ý: cần nhập thông tin tất cả các trường tại mô đun_
+
+### Xóa cấu hình trình diễn
+
+Nhấn chọn **Xóa** để xóa mô đun này.
+
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+
+### Sửa cấu hình trình diễn
+
+Nhấn chọn **Cấu hình** tại mô đun trình diễn
+
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
