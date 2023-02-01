@@ -4,6 +4,8 @@ Cho phép tạo nhiều Quảng cáo tùy theo mục đích.
 
 ## Quản lý quảng cáo
 
+Đối với vùng chức năng Quản lý quảng cáo, sau khi thêm mới nhóm quảng cáo, bạn cần cấu hình [tại đây](https://simplemag.osd.vn/docs/catalog/ads#c%E1%BA%A5u-h%C3%ACnh-m%C3%B4-%C4%91un-qu%E1%BA%A3ng-c%C3%A1o) để hiển thị trên website
+
 ### Thêm mới quảng cáo
 
 Để thêm một quảng cáo, bạn cần:

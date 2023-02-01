@@ -21,6 +21,12 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
+### Thêm nhanh trình đơn
+
+Hệ thống sẽ lấy tự động URL theo loại nội dung bạn chọn. Thao tác như sau
+
+Nhấn chọn `Thêm chuyên mục` hoặc `Bài viết giới thiệu` và tích vào các nhóm chuyên mục muốn hiển thị trên thanh menu website sau đó chọn **OK -> Cập nhật menu**
+
 #### Thêm trình đơn tự do
 
 Để thêm trình đơn tự do, bạn điền thông tin tại trường **Thêm tự do**
@@ -35,11 +41,11 @@ Nhập tiêu đề trình đơn bằng tiếng Việt
 
 **URL**
 
-Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
+URL trùng với slug của loại nội dung (chuyên mục tin) hoặc slug của bài viết cụ thể có trong website
 
 Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất, các trình đơn sẽ được chuyển sang màn hình bên phải, sau đó nhấn chọn **Cập nhật menu**
 
-**Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
+**Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó nhấn chọn **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
 
 ![trinh-don-7.jpg](img/trinh-don-7.jpg)
 
@@ -49,15 +55,13 @@ _Chú ý: có thể tạo nhiều nhóm menu để cấu hình tại nhiều b�
 
 ### Xóa trình đơn
 
-Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh nút **Sửa**. Chọn **OK**.
-
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh nút **Sửa**. Chọn **Đồng ý**.
 
 Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần chọn **Cập nhật menu** để lưu lại những thay đổi.
 
 ### Sửa trình đơn
 
-Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Cập nhật menu** để lưu lại những thay đổi.
+Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Cập nhật menu** để cập nhật lại những thay đổi.
 
 ## Cấu hình trình đơn
 
@@ -73,7 +77,7 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#b%E1%BB%91-c%
 
 **Trình đơn**
 
-Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
+Lựa chọn nhóm trình đơn được cấu hình tại **Giao diện -> Trình đơn**
 
 **Thứ tự**
 
