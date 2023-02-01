@@ -21,6 +21,12 @@ Nhập tên nhóm trình đơn bằng tiếng Việt
 
 ![trinh-don-1.jpg](img/trinh-don-1.jpg)
 
+### Thêm nhanh trình đơn
+
+Hệ thống sẽ lấy tự động URL theo loại nội dung bạn chọn. Thao tác như sau
+
+Nhấn chọn `Thêm chuyên mục` hoặc `Bài viết giới thiệu` và tích vào các nhóm chuyên mục muốn hiển thị trên thanh menu website sau đó chọn **OK -> Cập nhật menu**
+
 #### Thêm trình đơn tự do
 
 Để thêm trình đơn tự do, bạn điền thông tin tại trường **Thêm tự do**
@@ -35,11 +41,11 @@ Nhập tiêu đề trình đơn bằng tiếng Việt
 
 **URL**
 
-Liên kết URL được trùng với URL nhóm sản phẩm hoặc URL nhóm tin tức hoặc URL bài cụ thể trong website 
+URL trùng với slug của loại nội dung (chuyên mục tin) hoặc slug của bài viết cụ thể có trong website
 
 Khi hoàn thành nhấn chọn **Thêm vào menu** để hoàn tất, các trình đơn sẽ được chuyển sang màn hình bên phải, sau đó nhấn chọn **Cập nhật menu**
 
-**Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó click **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
+**Cấu hình trình đơn cấp con** Nhấn và giữ menu cần tùy chỉnh cấp con và kéo, thả khoảng 1cm sau đó nhấn chọn **Cập nhật menu** để lưu lại vị trí thứ tự của trình đơn. Xem chi tiết hình bên dưới.
 
 ![trinh-don-7.jpg](img/trinh-don-7.jpg)
 
