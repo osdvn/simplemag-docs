@@ -49,15 +49,13 @@ _Chú ý: có thể tạo nhiều nhóm menu để cấu hình tại nhiều b�
 
 ### Xóa trình đơn
 
-Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh nút **Sửa**. Chọn **OK**.
-
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
+Bạn nhấn chọn nút **Delete** (icon hình thùng rác) bên cạnh nút **Sửa**. Chọn **Đồng ý**.
 
 Sau khi thay đổi các thông tin - thiết lập của trình đơn, cần chọn **Cập nhật menu** để lưu lại những thay đổi.
 
 ### Sửa trình đơn
 
-Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Cập nhật menu** để lưu lại những thay đổi.
+Nhấn chọn nút sửa tại trình đơn muốn sửa. Sau khi thay đổi thông tin trình đơn, bạn cần chọn **Cập nhật menu** để cập nhật lại những thay đổi.
 
 ## Cấu hình trình đơn
 
