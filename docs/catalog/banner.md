@@ -20,15 +20,19 @@ Những thông tin cụ thể cần điền như sau:
 
 Nhập tên nhóm banner tương ứng để quản lý nhóm banner theo logic
 
-**Tiêu đề/Mô tả**
+**Mô tả**
 
-Nhập tên tiêu đề/mô tả mỗi banner muốn hiển thị trên ảnh banner đó
+Nhập tên mô tả cho nhóm banner
 
-**Link**
+**Tiêu đề/Liên kết**
 
 Dán liên kết tại đây. Khi xem ngoài website và click vào ảnh hệ thống sẽ chuyển hướng tới liên kết này.
 
-**Desktop/Mobile**
+**Mô tả**
+
+Nhập tên mô tả mỗi banner muốn hiển thị trên ảnh banner đó
+
+**Hình ảnh**
 
 Upload ảnh banner theo kích thước desktop/mobile
 
@@ -64,7 +68,7 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 ### Sửa một nhóm banner
 
-Để thay đổi thông tin các trường trong nhóm banner, bạn chọn nhấn chọn trực tiếp tại nhóm banner.
+Để thay đổi thông tin trong nhóm banner, bạn chọn nhấn chọn trực tiếp tại nhóm banner.
 
 Để sửa một ảnh trong nhóm banner, nhấn **Chọn ảnh** để tải lại ảnh tại nhóm banner đó
 
