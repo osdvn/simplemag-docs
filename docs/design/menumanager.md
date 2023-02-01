@@ -71,7 +71,7 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#b%E1%BB%91-c%
 
 **Trình đơn**
 
-Lựa chọn nhóm menu được cấu hình tại **Giao diện -> Trình đơn** trước đó
+Lựa chọn nhóm trình đơn được cấu hình tại **Giao diện -> Trình đơn**
 
 **Thứ tự**
 
