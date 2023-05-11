@@ -3,7 +3,7 @@
 
 ## Thêm mới vai trò
 
-Nhấn chọn **Hệ thống -> Thành viên -> Vai trò**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Hệ thống -> Thành viên -> Vai trò**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cần điền như sau:
 
