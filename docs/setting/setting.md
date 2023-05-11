@@ -37,8 +37,4 @@ Hiển thị số hotline bán hàng của công ty/văn phòng trên trang liê
 
 Mặc định là Việt Nam
 
-## Bảo mật hệ thống
-
-**Chế độ bảo trì** Khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị (admin) sau khi đăng nhập, xem website hoạt động như bình thường.
-
-Nhấn chọn nút **v** để hoàn tất.
+Nhấn chọn nút **Lưu** để hoàn tất.
