@@ -8,7 +8,7 @@
 
 ## Thêm chuyên mục tin bài
 
-Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và dịch vụ -> Chuyên mục tin**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
@@ -34,23 +34,26 @@ Chọn danh mục cấp cha cho danh mục này nếu danh mục này không có
 
 Tích vào trường thông tin này, khi xem ngoài website tại Chuyên mục tin này hệ thống sẽ lấy thông tin ngày đăng tin bài hiển thị dưới tiêu đề tin bài
 
-![chuyen-muc-tin.jpg](img/chuyen-muc-tin.jpg)
-
 **Hiện tác giả**
 
 Tích vào trường thông tin này, khi xem ngoài website tại Chuyên mục tin này hệ thống sẽ lấy thông tin tác giả đăng tin bài đó và được hiển thị dưới tiêu đề tin bài
-
-![chuyen-muc-tin-1.jpg](img/chuyen-muc-tin-1.jpg)
 
 **Hiện lượt xem**
 
 Tích vào trường thông tin này, khi xem ngoài website tại Chuyên mục tin này hệ thống sẽ tất cả lượt xem của tin bài và được hiển thị dưới tiêu đề tin bài
 
-![chuyen-muc-tin-2.jpg](img/chuyen-muc-tin-2.jpg)
+3 tùy chọn trên hiển thị tại nhóm chuyên mục tin. Hình minh họa cấu hình 3 tùy chọn trên
 
-**Giao diện**
+![chuyen-muc-tin.jpg](img/chuyen-muc-tin.jpg)
 
-- **Mặc định**: hiển thị các bài tin theo hàng dọc bao gồm ảnh đại diện, tiêu đề và mô tả ngắn bài tin
+**Mẫu trình bày**
+
+Tại đây có 5 kiểu trình bày cho bạn lựa chọn
+
+- **Mặc định**: hiển thị theo hàng dọc
+- **Tạp chí**: hiển thị 3 bài trên 1 hàng ngang
+- **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
+- **Thư viện video**: hiển thị giống trình quản lí video 
 
 **Thứ tự**
 
@@ -66,7 +69,7 @@ Nhấn chọn icon bút chì để sửa các trường _Meta title, Meta keywor
 
 Xem [tại đây](https://simplemag.osd.vn/docs/seo/serp/)
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm chuyên mục tin bài
 
@@ -78,4 +81,4 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
 
-Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.

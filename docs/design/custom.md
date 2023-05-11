@@ -1,24 +1,41 @@
+# Trang đặc biệt
 
-# Mã nhúng
+## Trang Blog
 
-Đối với dịch vụ của những bên thứ 3, bạn cần dán mã nhúng tương ứng tại **Script header** và **Script footer**.
+Khu vực này cho phép bạn thay đổi các thông tin  của trang news blog.
 
-## Thêm mới mã nhúng
+### Tên trang
 
-**Script header** `(Javascript hiển thị trong cặp thẻ <head>)`
+Tên trang của trang news blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: bạn đặt là Wiki thì trang news blog không tên là Blog sẽ thành Wiki ).
 
-Dán mã code của thẻ head
+### Meta title 
 
-**Script footer** `(Javascript hiển thị trước thẻ đóng body <body>)`
+Tiêu đề của trang blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: OSD.VN | Online Service Development). Độ dài tối đa là 70 ký tự.
 
-Dán mã code của thẻ body
+### Mô tả ngắn & Meta description
 
-**Custom CSS**
+Thông tin mô tả của trang news blog. Độ dài tối đa là 160 ký tự.
 
-Đây là tham số CSS được cấu hình sẵn mang tính kĩ thuật. Không được xóa.
-  
-## Xóa mã nhúng
-Bôi đen đoạn mã nhúng cần xóa và chọn nút Back Space tại bàn phím máy tính, sau đó chọn nút **v** để hoàn tất.
+### Ảnh đại diện
 
-## Sửa mã nhúng
-Sửa thông tin đoạn mã nhúng, sau đó chọn nút **v** để hoàn tất.
+Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của bộ sưu tập từ máy tính và tải lên.
+
+### Slug / Đường dẫn
+
+Khi bạn điền vào trường này thì đường dẫn news/blog của bạn sẽ không truy cập được mà sẽ thay đổi theo đường dẫn bạn điền vào vùng này (ví dụ: bạn điền là wiki thì đường dẫn osd.vn/news/blog sẽ không truy cập được mà sẽ thành osd.vn/wiki ).
+
+Sau đó nhấn chọn nút **Lưu** để hoàn tất
+
+## Trang bảo trì
+
+Khu vực này cho phép bạn đóng cửa website.
+
+### Chế độ bảo trì
+
+Chế độ bảo trì khi chọn là Bật hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
+
+### Nội dung khi đóng cửa
+
+Khi các bạn nhập mô tả nội dung vào phần này và để chế độ bảo trì là bật thì thông báo hiển thị ngoài website của bạn sẽ hiển thị nôi dung mà bạn đã nhập vào đó.
+
+Sau đó nhấn chọn nút **Lưu** để hoàn tất

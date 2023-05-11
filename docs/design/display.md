@@ -23,4 +23,4 @@ Chọn nhóm trình đơn muốn hiển thị trên mobile
 - **Số tin bài khác** giới hạn hiển thị số lượng bài tin cùng chuyên mục tại mỗi tin bài chi tiết
 - **Ảnh tin bài trang chuyên mục/Ảnh tin bài khác**: chọn kích thước ảnh có sẵn tại danh sách thả xuống
 
-Nhấp chuột vào nút **v** để hoàn tất.
+Nhấp chuột vào nút **Lưu** để hoàn tất.

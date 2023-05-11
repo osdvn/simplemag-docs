@@ -5,7 +5,7 @@
 
 Để thêm một thành viên mới, bạn cần:
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cần điền như sau:
 
@@ -38,7 +38,7 @@ Nhập lại mật khẩu của tài khoản
 
 Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i)
 
-Nhấp chuột vào nút **v** để hoàn tất.
+Nhấp chuột vào nút **Lưu** để hoàn tất.
 
 ## Xóa thành viên
 
@@ -54,4 +54,4 @@ Sửa thông tin – thiết lập một tài khoản quản trị
 
 Trong màn hình quản trị tài khoản, bạn nhấn chọn trực tiếp tại tài khoản muốn sửa hoặc icon bút chì ở cuối mỗi tài khoản để sửa thông tin.
 
-Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **v** để cập nhật những thay đổi.
+Sau khi cập nhật các thông tin – thiết lập cho tài khoản, bạn chọn **Lưu** để cập nhật những thay đổi.
