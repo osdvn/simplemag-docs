@@ -10,7 +10,7 @@ Cho phép tạo nhiều Quảng cáo tùy theo mục đích.
 
 Để thêm một quảng cáo, bạn cần:
 
-Nhấn chọn **Nội dung -> Quản lý quảng cáo**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Quản lý quảng cáo**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 ![quang-cao.jpg](img/quang-cao.jpg)
 
@@ -49,7 +49,7 @@ Mặc định là hình ảnh
 Tích checkbox: mở liên kết trong cửa sổ mới
 Không tích checkbox: mở liên kết tại cửa sổ hiện tại
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa Quảng cáo
 
@@ -61,11 +61,11 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 Để sửa một banner Quảng cáo, nhấn chọn vào banner Quảng cáo đó để sửa.
 
-Sau khi thay đổi các thông tin nội dung của banner Quảng cáo, nhấn chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của banner Quảng cáo, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
 
 ## Cấu hình mô đun Quảng cáo
 
-Nhấn chọn **Giao diện -> Mô đun -> Quảng cáo -> Cấu hình**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Giao diện -> Mô đun -> Quảng cáo -> Cấu hình**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 ![quang-cao-1.jpg](img/quang-cao-1.jpg)
 
@@ -91,4 +91,4 @@ Lựa chọn banner Quảng cáo hiển thị
 
 Nhập kích thước chiều rộng/Chiều cao tương ứng với mỗi hình ảnh của banner quảng cáo
 
-Sau khi thay đổi các thông tin nội dung của banner Quảng cáo, nhấn chọn nút (v) để cập nhật những thay đổi.
+Sau khi thay đổi các thông tin nội dung của banner Quảng cáo, nhấn chọn nút **Lưu** để cập nhật những thay đổi.
