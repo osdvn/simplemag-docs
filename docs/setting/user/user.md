@@ -5,7 +5,7 @@
 
 Để thêm một thành viên mới, bạn cần:
 
-Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút (+) để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Hệ thống -> Thành viên -> Thành viên -> Thêm**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cần điền như sau:
 
