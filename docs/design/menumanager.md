@@ -95,7 +95,7 @@ Hiển thị bên ngoài website như dưới đây
 
 ![trinh-don-9.jpg](img/trinh-don-9.jpg)
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
 
 ### Xóa cấu hình trình đơn
 
@@ -107,4 +107,4 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 Nhấn chọn **Cấu hình** tại mô đun trình đơn
 
-Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **v** để hoàn tất.
+Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
