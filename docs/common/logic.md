@@ -20,7 +20,7 @@ Thứ tự sắp xếp ưu tiên như sau:
 - Thứ tự
 - Ngày xuất bản
 
-## Trạng thái
+## Trạng thái và Xuất bản
 
 - Bật/Có: cho phép hiển thị
 - Tắt/Không: không cho phép hiển thị
@@ -38,4 +38,3 @@ Do đặc thù người đọc chỉ xem website được trên các thiết b�
 Thực tế của chính sách này là nhằm giúp người dùng truy cập website được nhanh nhất. Với người đọc trả tiền internet theo lưu lượng (3G, 4G, 5G,... là phổ biến) thì sẽ giúp tiết kiệm chi phí cho người đọc.
 
 Dung lượng của file ảnh khi không được chú ý sẽ dễ làm tăng nhanh tổng lưu lượng của website gây cho chủ sở hữu website phải tăng chi phí thuê host website (một cách không xứng đáng).
-
