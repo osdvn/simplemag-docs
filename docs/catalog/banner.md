@@ -34,7 +34,7 @@ Nhập tên mô tả mỗi banner muốn hiển thị trên ảnh banner đó
 
 **Hình ảnh**
 
-Upload ảnh banner theo kích thước desktop/mobile
+Upload ảnh banner theo kích thước desktop/mobile.
 
 **Thứ tự**
 
@@ -102,7 +102,7 @@ Chọn nhóm banner bạn đã tạo tại **Nội dung -> Banner**
 
 **Cỡ hình ảnh banner/Cỡ hình ảnh banner mobile**
 
-Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop/mobile
+Nhập kích thước chiều rộng và chiều cao cho slideshow trên bản desktop/mobile.
 
 **Thêm mô-đun**
 
@@ -118,6 +118,6 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3
 
 ### Sửa cấu hình trình diễn
 
-Nhấn chọn **Cấu hình** tại mô đun trình diễn
+Nhấn chọn **Cấu hình** tại mô đun trình diễn.
 
 Sau khi thay đổi các thông tin - thiết lập của mô đun cần chọn nút **Lưu** để hoàn tất.
