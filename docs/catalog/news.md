@@ -77,7 +77,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa một tin bài
 
-Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài tin, tích vào bài tin đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc click nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
 Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
