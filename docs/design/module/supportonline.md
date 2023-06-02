@@ -1,6 +1,6 @@
 # Mô đun hỗ trợ trực tuyến
 
-Là dịch vụ trực tuyến dành cho doanh nghiệp với khách hàng, thường thông qua trò chuyện trực tiếp theo thời gian thực, hỗ trợ giải đáp thông tin giữa doanh nghiệp với khách hàng
+Là dịch vụ hỗ trợ trực tuyến dành cho doanh nghiệp với khách hàng, thường thông qua trò chuyện trực tiếp theo thời gian thực, hỗ trợ giải đáp thông tin giữa doanh nghiệp với khách hàng
 
 ## Thêm mới mô đun hỗ trợ trực tuyến
 
@@ -30,13 +30,17 @@ Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#th%E1%BB%A9-t%E
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://mkmate.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
+
+**Vị trí hiển thị**
+
+Lựa chọn vị trí hiển thị góc bên phải của trang web hoặc góc bên trái trang web
 
 **Cỡ icon**
 
 Lựa chọn cỡ icon tại Drop List
 
-Nhấn chọn nút (v) để lưu lại 1 mục.
+Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa mô đun hỗ trợ trực tuyến
 
