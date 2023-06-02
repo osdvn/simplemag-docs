@@ -16,7 +16,7 @@ Nhấn chọn **Nội dung -> Quản lý quảng cáo**. Nhấn chọn nút **Th
 
 Những thông tin cụ thể cần điền như sau:
 
-**Banner Quảng cáo**
+**Hình ảnh Quảng cáo**
 
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của Quảng cáo từ máy tính và tải lên
 
