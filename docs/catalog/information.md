@@ -34,8 +34,9 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#th%E1%BB%A9-
 
 **Xuất bản**
 
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
+**Seo**
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
 Nhấn chọn icon bút chì để sửa các trường _Meta title, Meta keyword, Meta Description_
@@ -46,7 +47,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa bài thông tin
 
-Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
+Để xóa một bài viết thông tin, tích vào bài viết thông tin đó và chọn **Xóa** từ danh sách checkbox bên phải hoặc nhấn chọn nút **Xóa bài** trong mỗi bài thông tin chi tiết.
 
 Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
