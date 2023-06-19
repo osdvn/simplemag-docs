@@ -16,7 +16,7 @@ Nhấn chọn **Nội dung -> Quản lý quảng cáo**. Nhấn chọn nút **Th
 
 Những thông tin cụ thể cần điền như sau:
 
-**Banner Quảng cáo**
+**Hình ảnh Quảng cáo**
 
 Nhấn chọn **Chọn** để lựa chọn tập tin hình ảnh của Quảng cáo từ máy tính và tải lên
 
@@ -53,7 +53,7 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ### Xóa Quảng cáo
 
-Để xóa một banner Quảng cáo, tích vào banner Quảng cáo đó và chọn **Xóa** từ danh sách checkbox bên trái.
+Để xóa một banner Quảng cáo, tích vào banner Quảng cáo đó và chọn **Xóa** từ danh sách checkbox bên phải.
 
 Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
@@ -81,7 +81,7 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#th%E1%BB%A9-
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Quảng cáo**
 

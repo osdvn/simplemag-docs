@@ -50,10 +50,11 @@ Tích vào trường thông tin này, khi xem ngoài website tại Chuyên mục
 
 Tại đây có 5 kiểu trình bày cho bạn lựa chọn
 
-- **Mặc định**: hiển thị theo hàng dọc
-- **Tạp chí**: hiển thị 3 bài trên 1 hàng ngang
-- **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối
-- **Thư viện video**: hiển thị giống trình quản lí video 
+- **Mặc định**: hiển thị theo hàng dọc.
+- **Tạp chí**: hiển thị 3 bài trên 1 hàng ngang.
+- **Khối**: hiển thị giống tạp chí và các bài được nổi bật theo khối.
+- **Đơn giản**: Hiển thị theo từng mẫu giao diện khác.
+- **Thư viện video**: hiển thị giống trình quản lí video .
 
 **Thứ tự**
 
@@ -61,7 +62,9 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#th%E1%BB%A9-
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
+
+**Seo**
 
 _Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Meta title, Meta keyword, Meta Description_
 
@@ -73,12 +76,12 @@ Nhấn chọn nút **Lưu** để lưu lại 1 mục.
 
 ## Xóa nhóm chuyên mục tin bài
 
-Chọn **Xóa** từ danh sách checkbox bên trái hoặc nhấn chọn nút **Xóa chuyên mục** trong mỗi chuyên mục tin bài chi tiết.
+Chọn **Xóa** từ danh sách checkbox bên phải hoặc nhấn chọn nút **Xóa chuyên mục** trong mỗi chuyên mục tin bài chi tiết.
 
 Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#x%C3%B3a-c%C3%A1c-m%E1%BB%A5c-c%C3%A1c-th%C3%A0nh-ph%E1%BA%A7n-th%C3%B4ng-tin)
 
 ## Sửa nhóm chuyên mục tin bài
 
-Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa hoặc nhấn vào icon bút chì.
+Nhấp chọn trực tiếp vào nhóm chuyên mục tin bài cần sửa.
 
 Sau khi thay đổi các thông tin nội dung của bài viết cần chọn nút **Lưu** để cập nhật những thay đổi.
