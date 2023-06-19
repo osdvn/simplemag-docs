@@ -4,7 +4,7 @@ Là công cụ trình chiếu gồm 1 chuỗi những hình ảnh.
 
 **Một số lưu ý về slideshow và banner**
 
-Đối với vùng chức năng banner, sau khi thêm mới banner bạn cần cấu hình [tại đây](https://mkmate.osd.vn/docs/design/banner#c%E1%BA%A5u-h%C3%ACnh-tr%C3%ACnh-di%E1%BB%85n), để hiển thị trên website.
+Đối với vùng chức năng banner, sau khi thêm mới banner bạn cần cấu hình [tại đây](https://simplemag.osd.vn/docs/design/banner#c%E1%BA%A5u-h%C3%ACnh-tr%C3%ACnh-di%E1%BB%85n), để hiển thị trên website.
 
 ## Quản lý Banner
 
@@ -42,7 +42,7 @@ Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#th%E1%BB%A9-
 
 **Trạng thái**
 
-Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic/#tr%E1%BA%A1ng-th%C3%A1i)
+Xem thêm [tại đây](https://simplemag.osd.vn/docs/common/logic#tr%E1%BA%A1ng-th%C3%A1i-v%C3%A0-xu%E1%BA%A5t-b%E1%BA%A3n)
 
 **Thêm banner**
 
