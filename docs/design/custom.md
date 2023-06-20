@@ -2,15 +2,15 @@
 
 ## Trang Blog
 
-Khu vực này cho phép bạn thay đổi các thông tin  của trang news blog.
+Khu vực này cho phép bạn thay đổi các thông tin của đường dẫn _domain/news/blog_ hoặc _domain/blogs_.
 
 ### Tên trang
 
-Tên trang của trang news blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: bạn đặt là Wiki thì trang news blog không tên là Blog sẽ thành Wiki ).
+Tên trang của trang news blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: bạn đặt là Wiki thì tên trang _news blog_ sẽ thành Wiki ).
 
 ### Meta title 
 
-Tiêu đề của trang blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: OSD.VN | Online Service Development). Độ dài tối đa là 70 ký tự.
+Tiêu đề của trang blog, được hiển thị trên trình duyệt web của người dùng (ví dụ: Blog | Tin tức mới cập nhật). Độ dài tối đa là 70 ký tự.
 
 ### Mô tả ngắn & Meta description
 
@@ -32,7 +32,7 @@ Khu vực này cho phép bạn đóng cửa website.
 
 ### Chế độ bảo trì
 
-Chế độ bảo trì khi chọn là Bật hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
+Chế độ bảo trì khi chọn là **Bật** hệ thống hiển thị 1 thông báo website ở chế độ bảo trì, không xem được các thông tin đang có trên website. Người dùng quản trị sau đăng nhập, vẫn thấy website hoạt động như bình thường.
 
 ### Nội dung khi đóng cửa
 
